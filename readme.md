@@ -1,4 +1,4 @@
-﻿<h1 align="center">Hi! I'm Yunus <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
+﻿<h1 align="center">Hi! I'm Yunus <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px" /></h1>
 <h3 align="center">A Software Engineer from Istanbul 📍</h3>
 
 #### 🛠️ My favorite tools
